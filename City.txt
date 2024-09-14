@@ -1,2 +1,6 @@
 New York
+<<<<<<< HEAD
 Chicago
+=======
+Los Angeles
+>>>>>>> d1bb5d121c7db1f60a463c4e33c8ebd3c839a8ed
